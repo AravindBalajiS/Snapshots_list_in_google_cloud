@@ -1,0 +1,1 @@
+# Snapshots_list_in_google_cloud
